@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![alt text](guilherme-maggieri-OH5g9IgcMWs-unsplash.jpg)
+![alt text](tennis.png)
 
 
 - 🔭 I’m currently working on ...
