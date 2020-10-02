@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![alt text](https://unsplash.com/photos/OH5g9IgcMWs)
+
+![alt text](guilherme-maggieri-OH5g9IgcMWs-unsplash.jpg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
