@@ -13,8 +13,8 @@
 - ⚡ Fun fact: ...
 
 ## 📫 How to reach me: 
-🖥 [LinkedIn](https://www.linkedin.com/in/dong-xia-tennis-4040/) <br>
-📚 [Medium](https://dong-xia.medium.com/)
+🖥 &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/dong-xia-tennis-4040/) <br>
+📚 &nbsp;&nbsp;[Medium](https://dong-xia.medium.com/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dong-yi-xia&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dong-yi-xia)](https://github.com/anuraghazra/github-readme-stats)
