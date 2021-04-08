@@ -8,6 +8,7 @@
 
 ## 📫 How to reach me: 
 🖥 &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/dong-xia-tennis-4040/) <br>
+🦅 &nbsp;&nbsp;[Tweeter](https://twitter.com/DongXia_Anime) <br>
 📚 &nbsp;&nbsp;[Medium](https://dong-xia.medium.com/) <br>
 🎾 &nbsp;&nbsp;[Personal Website](https://dong-xia.web.app)
 
