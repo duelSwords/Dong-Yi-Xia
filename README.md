@@ -13,4 +13,5 @@
 🎾 &nbsp;&nbsp;[Personal Website](https://dong-xia.web.app)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dong-yi-xia&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dong-yi-xia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dong-yi-xia&langs_count=10&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
+
